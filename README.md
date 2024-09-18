@@ -29,4 +29,5 @@ with `Droput = 0.4` after first layer and `Dropout = 0.2` and the same `learning
 **Test Accuracy**: `96.5%`  
 This model generalised better over the out-of-sample pictures than the previous trial, providing a more accurate classification of the signed letter
 ## IV. Live Prediction
-
+<img src="https://github.com/user-attachments/assets/53cb7019-8688-4966-be30-45130304c5f7">    
+The hand is detected and landmarks extracted and normalized, then they are passed to the model and the letter is appended to the word at the bottom of the screen
